@@ -2,4 +2,4 @@
 
 | Thema | Beschreibung |
 | ----  | ---- |
-| Multilinguist | Während der Bedienung immer wieder mal Sprache wechseln  App mit Kyrillischer Schrift verwenden  ... |
+| Multilinguist | - Während der Bedienung immer wieder mal Sprache wechseln<br>  - App mit Kyrillischer Schrift verwenden<br> - ... |
