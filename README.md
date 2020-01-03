@@ -15,6 +15,7 @@
 | Orbiter | - Nutze alle Funktionen der App, AUSSER der Kernfunktion<br> - ... |
 | Paranoid | - App Permissions entziehen |
 | Heavy Rotation | - Drehe das Gerät immer wieder mal im Verlauf der Nutzung<br> - ... |
+| Marathon man | - Starte die App und nutze sie die ganze Zeit ohne Reset. Lass die Speicher vollaufen |
 
 
 
